@@ -9,7 +9,7 @@
   
   inputs.src-htmlgenerator-master.flake = false;
   inputs.src-htmlgenerator-master.owner = "z-kk";
-  inputs.src-htmlgenerator-master.ref   = "refs/heads/master";
+  inputs.src-htmlgenerator-master.ref   = "master";
   inputs.src-htmlgenerator-master.repo  = "htmlgenerator";
   inputs.src-htmlgenerator-master.type  = "github";
   
