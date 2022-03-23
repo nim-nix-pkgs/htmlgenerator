@@ -102,7 +102,7 @@
   "heads": [
     {
       "name": "htmlgenerator",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "author": "z-kk",
       "desc": "Generate HTML string by nim object",
       "license": "MIT",
