@@ -42,11 +42,11 @@
     "src-htmlgenerator-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1647853022,
-        "narHash": "sha256-1SQoNvOplW+V2/BqoJtRQpYXg608EKkCFCofmqVvVTc=",
+        "lastModified": 1648269894,
+        "narHash": "sha256-lhSLbKHLRf1BbhFJgVOkxv9vBajEaz60QemmCbITaG0=",
         "owner": "z-kk",
         "repo": "htmlgenerator",
-        "rev": "04057701fd7c85f3a3d4828c15118f11da4bcb22",
+        "rev": "789b9a2f0b22a26026f658be0313d625db1f5f2f",
         "type": "github"
       },
       "original": {
