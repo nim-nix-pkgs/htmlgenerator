@@ -11,6 +11,7 @@
   inputs.src-htmlgenerator-v0_1_2.ref   = "refs/tags/v0.1.2";
   inputs.src-htmlgenerator-v0_1_2.owner = "z-kk";
   inputs.src-htmlgenerator-v0_1_2.repo  = "htmlgenerator";
+  inputs.src-htmlgenerator-v0_1_2.dir   = "";
   inputs.src-htmlgenerator-v0_1_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

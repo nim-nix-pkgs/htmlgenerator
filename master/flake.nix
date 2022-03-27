@@ -11,6 +11,7 @@
   inputs.src-htmlgenerator-master.ref   = "refs/heads/master";
   inputs.src-htmlgenerator-master.owner = "z-kk";
   inputs.src-htmlgenerator-master.repo  = "htmlgenerator";
+  inputs.src-htmlgenerator-master.dir   = "";
   inputs.src-htmlgenerator-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
