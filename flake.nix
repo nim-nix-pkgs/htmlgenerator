@@ -47,6 +47,14 @@
   inputs."htmlgenerator-v0_1_3".inputs.nixpkgs.follows = "nixpkgs";
   inputs."htmlgenerator-v0_1_3".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
+  inputs."htmlgenerator-v0_1_4".dir   = "v0_1_4";
+  inputs."htmlgenerator-v0_1_4".owner = "nim-nix-pkgs";
+  inputs."htmlgenerator-v0_1_4".ref   = "master";
+  inputs."htmlgenerator-v0_1_4".repo  = "htmlgenerator";
+  inputs."htmlgenerator-v0_1_4".type  = "github";
+  inputs."htmlgenerator-v0_1_4".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."htmlgenerator-v0_1_4".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@inputs:
   let 
     lib  = flakeNimbleLib.lib;
