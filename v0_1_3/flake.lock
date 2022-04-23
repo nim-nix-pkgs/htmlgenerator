@@ -36,22 +36,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-htmlgenerator-master": "src-htmlgenerator-master"
+        "src-htmlgenerator-v0_1_3": "src-htmlgenerator-v0_1_3"
       }
     },
-    "src-htmlgenerator-master": {
+    "src-htmlgenerator-v0_1_3": {
       "flake": false,
       "locked": {
-        "lastModified": 1649769031,
-        "narHash": "sha256-uZt6sx5kRlrjUgSiRabZ1htwB69Nngbi2I/wYf8xZes=",
+        "lastModified": 1648269894,
+        "narHash": "sha256-lhSLbKHLRf1BbhFJgVOkxv9vBajEaz60QemmCbITaG0=",
         "owner": "z-kk",
         "repo": "htmlgenerator",
-        "rev": "0c88daf778bd7db64293b79050a7d353dfec823e",
+        "rev": "789b9a2f0b22a26026f658be0313d625db1f5f2f",
         "type": "github"
       },
       "original": {
         "owner": "z-kk",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.1.3",
         "repo": "htmlgenerator",
         "type": "github"
       }

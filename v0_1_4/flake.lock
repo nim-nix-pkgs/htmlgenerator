@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-htmlgenerator-master": "src-htmlgenerator-master"
+        "src-htmlgenerator-v0_1_4": "src-htmlgenerator-v0_1_4"
       }
     },
-    "src-htmlgenerator-master": {
+    "src-htmlgenerator-v0_1_4": {
       "flake": false,
       "locked": {
         "lastModified": 1649769031,
@@ -51,7 +51,7 @@
       },
       "original": {
         "owner": "z-kk",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.1.4",
         "repo": "htmlgenerator",
         "type": "github"
       }
